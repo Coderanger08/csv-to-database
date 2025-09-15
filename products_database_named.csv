@@ -1,0 +1,51 @@
+product_id,product_name,category,price,stock_quantity,last_updated
+P001,Vacuum Cleaner,Home Appliances,90.88,158,2025-09-05
+P002,Washing Machine,Home Appliances,169.34,138,2025-05-18
+P003,Rice Cooker,Home Appliances,210.85,115,2024-11-24
+P004,Cycling Helmet,Sports,45.75,50,2025-09-13
+P005,History Book,Books,458.72,127,2024-10-11
+P006,Children's Storybook,Books,25.83,129,2025-03-28
+P007,Cookbook,Books,162.09,47,2024-10-05
+P008,Bread,Groceries,258.95,15,2024-10-03
+P009,Comic Book,Books,33.4,147,2025-04-26
+P010,Boxing Gloves,Sports,155.71,81,2025-05-06
+P011,Football,Sports,421.66,145,2025-07-04
+P012,Tablet,Electronics,113.79,77,2025-02-26
+P013,Blender,Home Appliances,135.01,156,2025-07-30
+P014,Power Bank,Electronics,455.71,102,2025-04-16
+P015,Comic Book,Books,261.92,67,2024-11-28
+P016,Shampoo,Beauty,421.38,46,2025-04-09
+P017,Vacuum Cleaner,Home Appliances,318.21,95,2025-05-09
+P018,Puzzle,Toys,377.51,127,2025-03-16
+P019,Bread,Groceries,95.46,178,2025-02-15
+P020,Action Figure,Toys,103.31,200,2024-12-05
+P021,Bread,Groceries,114.19,186,2025-06-08
+P022,Vacuum Cleaner,Home Appliances,487.11,46,2025-03-06
+P023,Comic Book,Books,228.18,145,2025-04-20
+P024,Scarf,Clothing,165.13,172,2024-12-24
+P025,Nail Polish,Beauty,296.63,60,2025-04-09
+P026,Sweater,Clothing,21.8,46,2025-09-03
+P027,Pasta,Groceries,116.96,23,2025-05-02
+P028,Washing Machine,Home Appliances,300.99,83,2025-03-15
+P029,Microwave,Home Appliances,285.06,57,2025-08-10
+P030,Hat,Clothing,320.03,105,2024-10-19
+P031,Yo-Yo,Toys,239.04,191,2025-02-27
+P032,Conditioner,Beauty,459.75,78,2024-12-07
+P033,Board Game,Toys,26.72,163,2025-07-28
+P034,Sugar,Groceries,309.06,158,2025-06-21
+P035,Blender,Home Appliances,241.05,35,2024-10-01
+P036,Shorts,Clothing,496.82,92,2025-07-27
+P037,Basketball,Sports,197.03,195,2025-04-28
+P038,History Book,Books,414.84,12,2025-08-30
+P039,Doll,Toys,211.67,192,2024-10-15
+P040,Football,Sports,216.84,74,2024-10-04
+P041,Science Fiction Book,Books,413.86,134,2025-07-31
+P042,Coffee,Groceries,169.12,16,2025-01-21
+P043,Drone,Electronics,380.58,45,2025-02-22
+P044,Sunscreen,Beauty,59.83,143,2024-10-16
+P045,Toy Train,Toys,497.02,93,2025-03-07
+P046,Board Game,Toys,17.97,109,2025-06-28
+P047,Washing Machine,Home Appliances,195.8,108,2025-02-19
+P048,History Book,Books,250.04,101,2025-02-11
+P049,Comic Book,Books,218.29,164,2025-02-21
+P050,Dress,Clothing,334.74,127,2024-09-22
